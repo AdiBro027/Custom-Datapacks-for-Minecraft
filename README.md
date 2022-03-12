@@ -2,7 +2,7 @@
 
 Custom  Datapacks and recipe tweaks for minecraft (majorly 1.16):
 
-\n
+
 Click on the "code" button (the green one) on top right
 1. Download the zip
 2. Type windows key+R and type %appdata%
